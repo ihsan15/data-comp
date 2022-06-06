@@ -1,4 +1,4 @@
-package com.ihsan.playermarket.config;
+package com.ihsan.datacomp.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
